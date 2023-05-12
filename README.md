@@ -1,2 +1,2 @@
 # Advance-Grid-Properties
-css exercises 1 2 3
+css exercises 3
